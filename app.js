@@ -1,7 +1,8 @@
 const libros = [
     { id: 1, titulo: "Orgullo Y Prehuicio", precio: 470 },
     { id: 2, titulo: "Boulevard", precio: 349 },
-    { id: 3, titulo: "Bajo La Misma Estrella", precio: 400 }
+    { id: 3, titulo: "Bajo La Misma Estrella", precio: 400 },
+    { id: 6, titulo: "La mujeres que aman demasiado", precio: 500 }
 ];
 
 let carrito = [];
